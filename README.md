@@ -1,1 +1,3 @@
-# oci-database-multi-model
+# OCI Database Multi-model
+
+`SqlResultSetMapping` and `ConstructorResult`
